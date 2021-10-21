@@ -8,7 +8,7 @@ body {
     width: 70%;
     padding: 20px;
     text-align: left;
-    border: 1px solid black;
+    border: 2px solid black;
     margin: 0 auto;
 }
 
@@ -16,4 +16,13 @@ body {
     font-size: 30px;
     text-align: center;
     color: blue;
+}
+
+#cabecera {
+    background-color: black;
+    text-align: center;
+    color: green;
+    font-size: 25px;
+    margin: 0;
+    padding: 0.5px;
 }
