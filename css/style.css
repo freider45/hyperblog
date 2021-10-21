@@ -8,8 +8,9 @@ body {
     width: 70%;
     padding: 20px;
     text-align: left;
-    border: 2px solid black;
+    border: 2px solid green;
     margin: 0 auto;
+    background-color: black;
 }
 
 #container h1{
