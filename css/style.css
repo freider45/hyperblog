@@ -1,8 +1,19 @@
 body {
+    color: gray;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
 }
 
-h1 {
+#container {
+    width: 70%;
+    padding: 20px;
+    text-align: left;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+#container h1{
+    font-size: 30px;
+    text-align: center;
     color: blue;
-} 
+}
