@@ -27,3 +27,10 @@ body {
     margin: 0;
     padding: 0.5px;
 }
+
+.footer {
+    background-color: black;
+    color: green;
+    text-align: center;
+    padding: 2px 0 2px 0;
+}
