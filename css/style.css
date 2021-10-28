@@ -36,3 +36,10 @@ body {
 .image {
     margin: 0;
 }
+
+.footer {
+    background-color: black;
+    padding: 5px 0 5px 0;
+    text-align: center;
+    color: green;
+}
