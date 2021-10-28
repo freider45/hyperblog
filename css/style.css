@@ -1,36 +1,38 @@
+
+
 body {
-    color: blue;
-    text-align: center;
     font-family: 'Times New Roman', Times, serif;
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
 }
 
 #container {
     width: 70%;
-    padding: 20px;
-    text-align: left;
+    padding: 10px;
     border: 2px solid green;
     margin: 0 auto;
-    background-color: black;
+    background-color: white;
 }
 
 #container h1{
     font-size: 30px;
     text-align: center;
-    color: white;
+    color: black;
 }
 
 #cabecera {
-    background-color: black;
-    text-align: center;
-    color: green;
-    font-size: 25px;
+    display: flex;
     margin: 0;
-    padding: 0.5px;
 }
 
-.footer {
-    background-color: black;
+.titulo {
+    padding: 9px 0 0 5px;
     color: green;
-    text-align: center;
-    padding: 2px 0 2px 0;
+    font-size: 30px;
+}
+
+.image {
+    margin: 0;
 }
