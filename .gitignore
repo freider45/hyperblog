@@ -1,2 +1,5 @@
+#ignorar los datos con extension .jpg
 *.jpg
+
+#ignorar los datos con extension png
 *.png
