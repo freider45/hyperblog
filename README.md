@@ -7,5 +7,6 @@ En este curso vemos :
 * Flujo de trabajo de Git Hub
 * Buenas Prácticas
 * La importancia de Git y Git Hub en el entorno Profesional
+* Creado por Freider
 
 Este **README.md es para prácticar y nunca parar de aprender, ya que debemos recordar que, si solo hacemos lo que ya sabemos hacer, nunca vamos a llegar a ser mas de lo somos**
