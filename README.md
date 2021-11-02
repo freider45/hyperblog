@@ -8,6 +8,7 @@ En este curso vemos :
 * Buenas Prácticas
 * La importancia de Git y Git Hub en el entorno Profesional
 * Creado por Freider
-* Incluye muchos ejemplos
+* Incluye muchos ejemplos*
+* Este curso fue tomado en platzi
 
 Este **README.md es para prácticar y nunca parar de aprender, ya que debemos recordar que, si solo hacemos lo que ya sabemos hacer, nunca vamos a llegar a ser mas de lo somos**
